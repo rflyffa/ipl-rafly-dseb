@@ -1,3 +1,3 @@
-interface DoorInterface{
-    void openDoors()
+interface DoorInterface {
+    void openDoors();
 }

@@ -1,4 +1,6 @@
-class Engine {
-    void start() {
+class Engine implements EngineInterface {
+    @Override
+    public void start() {
+        // Implementasi start() untuk Engine
     }
 }
